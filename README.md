@@ -1,4 +1,4 @@
-# nextjs learn project
+# next.js learn project
 
 Create this simple Next.js application for learning purpose
 
